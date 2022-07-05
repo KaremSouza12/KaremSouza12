@@ -24,6 +24,6 @@
   <a href = "mailto:fulldevelop340@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="linkedin.com/in/karem-cristine-de-souza-dos-santos-824b42140" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/KaremSouza12/KaremSouza12/blob/output/github-contribution-grid-snake.svg)
  
 </div>
